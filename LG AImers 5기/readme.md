@@ -41,7 +41,8 @@
 
 ## 📈 모델링 
 ### 1️⃣ 모델 선택
-- 대부분의 변수가 범주형이므로 범주형 데이터 처리에 뛰어난 `CatBoostClassifier` 채택  
+- `CatBoost`,`XGBoost`, `LGBM`,`Extreme Randomized Tree`,`TabNet`, `SVM` 등 다양한 모델 시도
+- 대부분의 변수가 범주형이므로 범주형 데이터 처리에 뛰어난 `CatBoostClassifier`을 최종적으로 선택  
 
 ### 2️⃣ 하이퍼파라미터 튜닝
 - 클래스 불균형 문제를 고려하여 class_weights 튜닝
