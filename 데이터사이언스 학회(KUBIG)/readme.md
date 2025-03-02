@@ -14,42 +14,42 @@
 
 <p><strong>📅 활동 기간</strong>: 2022.07 ~ 2023.06 (16기)</p>
 
-<table>
+<table style="border-collapse: collapse; width: 100%; text-align: center;">
     <thead>
-        <tr>
-            <th>기간</th>
-            <th>활동</th>
-            <th>주요 내용</th>
+        <tr style="background-color: #343a40; color: white;">
+            <th style="padding: 10px; border: 1px solid white;">기간</th>
+            <th style="padding: 10px; border: 1px solid white;">활동</th>
+            <th style="padding: 10px; border: 1px solid white;">주요 내용</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td><strong>2022.07 ~ 2022.08</strong></td>
-            <td>머신러닝 스터디</td>
-            <td>머신러닝 기초 학습</td>
+        <tr style="background-color: #f8f9fa;">
+            <td style="padding: 10px; border: 1px solid #ddd;"><strong>2022.07 ~ 2022.08</strong></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">머신러닝 스터디</td>
+            <td style="padding: 10px; border: 1px solid #ddd;">머신러닝 기초 학습</td>
         </tr>
-        <tr>
-            <td rowspan="2"><strong>2022.09 ~ 2022.12</strong></td>
-            <td>분류/예측 프로젝트</td>
-            <td><code>XGBoost</code>, <code>RandomForest</code> 등 머신러닝 기반 분류/예측 모델 개발</td>
+        <tr style="background-color: #ffffff;">
+            <td rowspan="2" style="padding: 10px; border: 1px solid #ddd;"><strong>2022.09 ~ 2022.12</strong></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">분류/예측 프로젝트</td>
+            <td style="padding: 10px; border: 1px solid #ddd;"><code>XGBoost</code>, <code>RandomForest</code> 등 머신러닝 기반 분류/예측 모델 개발</td>
         </tr>
-        <tr>
-            <td>태블로 스터디</td>
-            <td>태블로 신병 훈련소 15기 과정 수행</td>
+        <tr style="background-color: #f8f9fa;">
+            <td style="padding: 10px; border: 1px solid #ddd;">태블로 스터디</td>
+            <td style="padding: 10px; border: 1px solid #ddd;">태블로 신병 훈련소 15기 과정 수행</td>
         </tr>
-        <tr>
-            <td><strong>2023.01 ~ 2023.02</strong></td>
-            <td>딥러닝 스터디</td>
-            <td>딥러닝 기초 학습 및 NLP 분야 토이 프로젝트</td>
+        <tr style="background-color: #ffffff;">
+            <td style="padding: 10px; border: 1px solid #ddd;"><strong>2023.01 ~ 2023.02</strong></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">딥러닝 스터디</td>
+            <td style="padding: 10px; border: 1px solid #ddd;">딥러닝 기초 학습 및 NLP 분야 토이 프로젝트</td>
         </tr>
-        <tr>
-            <td rowspan="2"><strong>2023.03 ~ 2023.06</strong></td>
-            <td>추천 시스템 프로젝트</td>
-            <td>콘텐츠 기반 추천 모델, 협업 필터링 기반 추천 모델 구현</td>
+        <tr style="background-color: #f8f9fa;">
+            <td rowspan="2" style="padding: 10px; border: 1px solid #ddd;"><strong>2023.03 ~ 2023.06</strong></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">추천 시스템 프로젝트</td>
+            <td style="padding: 10px; border: 1px solid #ddd;">콘텐츠 기반 추천 모델, 협업 필터링 기반 추천 모델 구현</td>
         </tr>
-        <tr>
-            <td>SQL 스터디</td>
-            <td>DataCamp의 SQL 강의를 들으며 실습</td>
+        <tr style="background-color: #ffffff;">
+            <td style="padding: 10px; border: 1px solid #ddd;">SQL 스터디</td>
+            <td style="padding: 10px; border: 1px solid #ddd;">DataCamp의 SQL 강의를 들으며 실습</td>
         </tr>
     </tbody>
 </table>
