@@ -13,7 +13,7 @@
 - **예선 데이터** 
   - `train`: 40,506 rows × 465 columns  
   - `test`: 17,361 rows × 464 columns  
-- **본선 데이터** 예선 데이터에 4개 컬럼이 추가됨  
+- **본선 데이터:** 예선 데이터에 4개 컬럼이 추가됨  
   - `train`: 40,506 rows × 469 columns  
   - `test`: 17,361 rows × 468 columns
  
