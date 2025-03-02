@@ -41,20 +41,20 @@
 - AbNormal : 2,350 rows
 
 ## 📈 모델링 
-### 1️⃣ 모델 선택
+1. **모델 선택**
 - `CatBoost`,`XGBoost`, `LGBM`,`Extreme Randomized Tree`,`TabNet`, `SVM` 등 다양한 모델 시도
 - 대부분의 변수가 범주형이므로 범주형 데이터 처리에 뛰어난 `CatBoostClassifier`을 최종적으로 선택  
 
-### 2️⃣ 하이퍼파라미터 튜닝
+2. **하이퍼파라미터 튜닝**
 - 클래스 불균형 문제를 고려하여 class_weights 튜닝
 - Optuna를 활용하여 최적의 파라미터 탐색 : `iterations`, `depth`, `learning_rate`, `class_weights`, `l2_leaf_reg`  
   
-### 3️⃣ 모델 검증 및 최종 예측
+3. **모델 검증 및 최종 예측**
 - Train-Validation 7:3 Split 
 - 5-Fold Cross Validation 적용
 - StratifiedCV 및 Seed 변경  
 
-➡️가장 안정적인 성능을 보이는 4개의 모델 선정하여 **Soft Voting 앙상블 모델** 생성
+-> 가장 안정적인 성능을 보이는 4개의 모델 선정하여 **Soft Voting 앙상블 모델** 생성
 
 ## 🔧 분석툴
 파이썬
