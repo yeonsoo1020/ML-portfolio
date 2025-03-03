@@ -40,6 +40,8 @@
 
 #### 6. 리뷰 데이터 분석_립 제품 구매에 영향을 미치는 요인분석
 
+[프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%A6%AC%EB%B7%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
+
 #### 7. 블랙보드 학습관리시스템(LMS) 데이터 분석 및 개선 연구
 
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%B8%94%EB%9E%99%EB%B3%B4%EB%93%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
