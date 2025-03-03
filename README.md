@@ -28,6 +28,9 @@
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/LG%20AImers%205%EA%B8%B0)
 
 #### 3. 고객 전력 사용량 예측 알고리즘 개발
+
+[프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
+
 #### 4. OD 데이터 분석_전통시장 활성화를 위한 청년몰 입지 예측 및 운영 전략
 #### 5. 관광 데이터 분석_외래관광객 유치를 위한 지역관광 활성화 방안
 #### 6. 블로그 리뷰
