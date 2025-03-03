@@ -6,6 +6,9 @@
 - 진행기간 : `2023.05` ~ `2023.07`  
 - 팀프로젝트(3인)
 - 🏆최우수상(한국전력공사 사장상) 수상
+- [최종보고서](https://github.com/yeonsoo1020/portfolio/blob/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EC%9E%90%EC%9B%90%EB%B6%80%20%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf), 
+[발표자료](https://github.com/yeonsoo1020/portfolio/blob/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EC%9E%90%EC%9B%90%EB%B6%80%20%EB%B0%9C%ED%91%9C%20ppt.pdf)
+
 
 ## 📂 활용 데이터
 공모전에서 제공되는 제주지역의 주택용 전력 사용 데이터 및 공공 데이터 포털, 외부 데이터 활용
@@ -106,5 +109,3 @@
 ## 🔧분석툴
 파이썬
 
-[최종보고서](https://github.com/yeonsoo1020/portfolio/blob/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EC%9E%90%EC%9B%90%EB%B6%80%20%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf), 
-[발표자료](https://github.com/yeonsoo1020/portfolio/blob/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EC%9E%90%EC%9B%90%EB%B6%80%20%EB%B0%9C%ED%91%9C%20ppt.pdf)
