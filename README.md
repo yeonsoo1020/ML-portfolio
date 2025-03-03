@@ -46,7 +46,7 @@
 
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%B8%94%EB%9E%99%EB%B3%B4%EB%93%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
 #### 8. 학위논문
-
+한국어 텍스트 데이터의 다양한 Advanced Rag 기법 성능 비교
 
 ## 🛠 Skills
 python, R, BigQuery, MySQL, tableau
