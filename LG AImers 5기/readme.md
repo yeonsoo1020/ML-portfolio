@@ -8,7 +8,7 @@
 - 팀프로젝트(5인)
 - 🏆예선 : 4위/740팀, 본선 : 9위/27팀
 - 예선 : [코드]
-- 본선 : [코드], [ppt](https://github.com/yeonsoo1020/portfolio/blob/main/LG%20AImers%205%EA%B8%B0/LG%20AImers%20%EB%B3%B8%EC%84%A0%20ppt.pdf)
+- 본선 : [코드](https://github.com/yeonsoo1020/portfolio/blob/main/LG%20AImers%205%EA%B8%B0/LG_AImers_5%EA%B8%B0_%EB%B3%B8%EC%84%A0_final.ipynb), [ppt](https://github.com/yeonsoo1020/portfolio/blob/main/LG%20AImers%205%EA%B8%B0/LG%20AImers%20%EB%B3%B8%EC%84%A0%20ppt.pdf)
 
 ## 📂 활용 데이터
 제공된 차량 디스플레이 생산 공정 데이터 활용
