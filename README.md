@@ -36,6 +36,8 @@
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/OD%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
 
 #### 5. 관광 데이터 분석_외래관광객 유치를 위한 지역관광 활성화 방안
+[프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EA%B4%80%EA%B4%91%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
+
 #### 6. 블로그 리뷰
 #### 7. 학위논문
 
