@@ -39,7 +39,9 @@
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EA%B4%80%EA%B4%91%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
 
 #### 6. 블로그 리뷰
-#### 7. 학위논문
+
+#### 7. 블랙보드 만족도 조사 시각화
+#### 8. 학위논문
 
 
 ## 🛠 Skills
