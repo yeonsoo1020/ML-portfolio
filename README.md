@@ -22,3 +22,7 @@ VD Propensity model 고도화
 #### 5. 관광 데이터 분석_외래관광객 유치를 위한 지역관광 활성화 방안
 #### 6. 블로그 리뷰
 #### 7. 학위논문
+
+
+## 🛠 Skills
+python, R, BigQuery, MySQL, tableau
