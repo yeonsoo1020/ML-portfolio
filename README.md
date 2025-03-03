@@ -19,8 +19,10 @@
 - `2024.10` ~ `2025.04` 삼성전자 VD사업부 산학협력
 
 ## 📚 Project
-#### 1. 삼성전자 VD 사업부 산학협력
-VD Propensity model 고도화
+#### 1. 삼성전자 VD Propensity model 고도화
+
+[프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5)
+
 #### 2. LG전자 차량 디스플레이 생산 공정 불량 예측
 
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/LG%20AImers%205%EA%B8%B0)
