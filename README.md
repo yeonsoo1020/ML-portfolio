@@ -31,21 +31,24 @@
 
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
 
-#### 4. OD 데이터 분석_전통시장 활성화를 위한 청년몰 입지 예측 및 운영 전략
+#### 4. RAG 기반 챗봇
+
+#### 5. OD 데이터 분석_전통시장 활성화를 위한 청년몰 입지 예측 및 운영 전략
 
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/OD%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
 
-#### 5. 관광 데이터 분석_외래관광객 유치를 위한 지역관광 활성화 방안
+#### 6. 관광 데이터 분석_외래관광객 유치를 위한 지역관광 활성화 방안
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EA%B4%80%EA%B4%91%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
 
-#### 6. 리뷰 데이터 분석_립 제품 구매에 영향을 미치는 요인분석
+#### 7. 리뷰 데이터 분석_립 제품 구매에 영향을 미치는 요인분석
 
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%A6%AC%EB%B7%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
 
-#### 7. 블랙보드 학습관리시스템(LMS) 데이터 분석 및 개선 연구
+#### 8. 블랙보드 학습관리시스템(LMS) 데이터 분석 및 개선 연구
 
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%B8%94%EB%9E%99%EB%B3%B4%EB%93%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
-#### 8. 학위논문 (작성중)
+
+#### 9. 학위논문 (작성중)
 한국어 텍스트 데이터의 다양한 Advanced Rag 기법 성능 비교
 
 ## 🛠 Skills
