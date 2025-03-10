@@ -64,11 +64,15 @@
 - 회귀 분석, 토픽 모델링, 워드 클라우드를 활용하여 주요 구매 요인 파악
 - 리뷰 데이터를 기반으로 소비자 선호 요소를 분석하고, 이를 반영한 마케팅 전략 방향 제시
 
-[프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%A6%AC%EB%B7%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
+[자세한 프로젝트 설명 및 자료](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%A6%AC%EB%B7%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
 
 #### 8. 블랙보드 공모전_블랙보드 학습관리시스템(LMS) 데이터 분석 및 개선 연구
+- 목표: 블랙보드 이용 실태 및 만족도를 분석하여 학습 시스템 개선 방향 도출
+- 문과/이과, 학부/대학원별 만족도를 비교하고, 독립표본 t-검정 및 데이터 시각화를 활용하여 인사이트 도출
+- 분석 결과를 기반으로 접근성 개선, 맞춤 기능 추가 등 개선 방안을 제안
+- 2022 블랙보드 데이터 분석·시각화 공모전 대상 수상
 
-[프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%B8%94%EB%9E%99%EB%B3%B4%EB%93%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
+[자세한 프로젝트 설명 및 자료](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%B8%94%EB%9E%99%EB%B3%B4%EB%93%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
 
 #### 9. 학위논문 (작성중)
 한국어 텍스트 분류를 위한 임베딩 모델 및 Advanced RAG 기법 비교 연구
