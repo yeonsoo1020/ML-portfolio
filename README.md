@@ -24,8 +24,9 @@
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5)
 
 #### 2. LG전자 차량 디스플레이 생산 공정 불량 예측
+이 프로젝트는 차량 디스플레이 생산 과정에서 발생하는 불량을 예측하고 판별하는 AI 모델을 개발하는 것이 목표입니다. 제공된 생산 공정 데이터를 기반으로 결측치 처리, 데이터 변환, 범주형 변수 인코딩 등의 전처리를 수행하였으며, 최종적으로 CatBoostClassifier를 활용해 불균형 데이터 문제를 해결했습니다. 성능 향상을 위해 Optuna를 활용한 하이퍼파라미터 튜닝 및 Soft Voting 앙상블 모델을 적용하였고, 이를 통해 안정적인 예측 성능을 확보하였습니다. 해당 프로젝트는 LG AImers 5기 대회에서 예선 4위(740팀 중)를 기록하며 좋은 성과를 거두었습니다.
 
-[프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/LG%20AImers%205%EA%B8%B0)
+[구체적인 프로젝트 설명, 자료](https://github.com/yeonsoo1020/portfolio/tree/main/LG%20AImers%205%EA%B8%B0)
 
 #### 3. 고객 전력 사용량 예측 알고리즘 개발
 
