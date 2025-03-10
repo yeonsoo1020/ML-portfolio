@@ -40,7 +40,7 @@
 
 [자세한 프로젝트 설명 및 자료](https://github.com/yeonsoo1020/portfolio/tree/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
 
-#### 4. RAG 기반 챗봇
+#### 4. RAG 기반 챗봇 (2025.01~2025.03)
 - 목표: 페르소나별 폐암 및 유방암 관련 정보를 제공하는 의료 상담 챗봇 개발
 - RAG(Retrieval-Augmented Generation) 기법을 활용하여 NCI 문서 참조 및 웹 검색 기능 추가
 - 프롬프트 지정을 통해 각 챗봇의 역할을 명확히 정의하여 특정 페르소나에 맞게 응답하도록 설정
