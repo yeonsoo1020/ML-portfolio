@@ -1,6 +1,6 @@
 # LG AImers 5기
 
-## 📌 프로젝트 개요
+## 📝 프로젝트 개요
 본 프로젝트는 LG AImers 5기에 참여하여, **차량 디스플레이 생산 공정 과정에서 발생하는 불량들을 예측하고 판별하는 AI 모델 개발**을 수행하였습니다.
 
 - **예선**: `2024.08.01` ~ `2024.08.30`  
@@ -8,6 +8,9 @@
 - 팀프로젝트(5인)
 - 🏆예선 : 4위/740팀, 본선 : 9위/27팀
 - 예선 : [코드](https://github.com/yeonsoo1020/portfolio/blob/main/LG%20AImers%205%EA%B8%B0/LG_AImers_5%EA%B8%B0_%EC%98%88%EC%84%A0_final.ipynb) / 본선 : [코드](https://github.com/yeonsoo1020/portfolio/blob/main/LG%20AImers%205%EA%B8%B0/LG_AImers_5%EA%B8%B0_%EB%B3%B8%EC%84%A0_final.ipynb), [ppt](https://github.com/yeonsoo1020/portfolio/blob/main/LG%20AImers%205%EA%B8%B0/LG%20AImers%20%EB%B3%B8%EC%84%A0%20ppt.pdf)
+
+## 📌 나의 역할
+
 
 ## 📂 활용 데이터
 제공된 차량 디스플레이 생산 공정 데이터 활용
