@@ -16,7 +16,7 @@
 ## 👩🏻‍💻 Experience
 - `2022.07` ~ `2023.06` 고려대학교 데이터사이언스 학회 [KUBIG 16기](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%ED%95%99%ED%9A%8C(KUBIG))
 - `2024.07` ~ `2024.09` LG Aimers 5기(9위/740팀)
-- `2024.10` ~ `2025.04` 삼성전자 VD사업부 산학협력
+- `2024.11` ~ `2025.04` 삼성전자 VD사업부 산학협력
 
 ## 📚 Project
 #### 1. 삼성전자 산학협력_VD Propensity model 고도화
