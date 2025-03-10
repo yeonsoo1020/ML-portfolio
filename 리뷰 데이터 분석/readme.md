@@ -7,6 +7,9 @@
 - 팀프로젝트(3인)
 - [최종보고서](https://github.com/yeonsoo1020/portfolio/blob/main/%EB%A6%AC%EB%B7%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/%EB%A6%BD%20%EC%A0%9C%ED%92%88%20%EA%B5%AC%EB%A7%A4%EC%97%90%20%EC%98%81%ED%96%A5%EC%9D%84%20%EB%AF%B8%EC%B9%98%EB%8A%94%20%EC%9A%94%EC%9D%B8%EB%B6%84%EC%84%9D.pdf)
 
+## 📝 역할
+립제품 리뷰 크롤링, 텍스트 전처리 및 분석
+
 ## 🏷️ 주제 선정 배경
 
 - 실내 마스크 착용 의무 해제 이후, 립 제품의 매출 급격히 상승 & 온라인 메이크업 시장 성장
