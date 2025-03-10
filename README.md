@@ -29,7 +29,7 @@
 - 성능 개선을 위해 하이퍼파라미터 튜닝 & Soft Voting 앙상블 기법을 적용하여 안정적인 예측 성능 확보
 - LG AImers 5기 해커톤에서 예선 740팀 중 4위, 본선진출 27팀 중 9위를 기록하며 우수한 성과 달성
 
-[자세한 프로젝트 설명, 자료](https://github.com/yeonsoo1020/portfolio/tree/main/LG%20AImers%205%EA%B8%B0)
+[자세한 프로젝트 설명 및 자료](https://github.com/yeonsoo1020/portfolio/tree/main/LG%20AImers%205%EA%B8%B0)
 
 #### 3. 산업통상자원부 공모전_고객 전력 사용량 예측 알고리즘 개발
 - 목표: 제주 지역의 고객별 전력 사용량을 예측하는 머신러닝 모델 개발 (2023.05~2023.07)
@@ -38,13 +38,18 @@
 - LightGBM, XGBoost, CatBoost를 활용하여 성능 비교 후, CatBoost를 최종 모델로 선정
 - 제11회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터 분석 부문 최우수상(한국전력공사 사장상) 수상
 
-[자세한 프로젝트 설명, 자료](https://github.com/yeonsoo1020/portfolio/tree/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
+[자세한 프로젝트 설명 및 자료](https://github.com/yeonsoo1020/portfolio/tree/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
 
 #### 4. RAG 기반 챗봇
 
 #### 5. OD 데이터 분석_전통시장 활성화를 위한 청년몰 입지 예측 및 운영 전략
+목표: 데이터 분석을 활용하여 최적의 청년몰 입지를 선정하고, 맞춤형 운영 전략을 제안하여 전통시장 활성화를 도모
+접근법: 인구 특성, 교통 접근성, 시장 인프라 및 관심도를 반영한 데이터 분석을 통해 청년몰 운영률 예측 모델 구축 및 최적 입지 선정
+데이터 분석 및 모델링: K-means 클러스터링을 활용해 방문객 유형을 분류하고, RandomForestRegressor 및 XGBRegressor를 활용하여 청년몰 영업률을 예측
+결과: 초량전통시장이 최적 입지로 선정되었으며, 체류인구 및 유동인구 분석을 기반으로 부산역 광고 활용 홍보 전략과 야경과 연계한 주말 야시장 운영 전략을 제안
+성과: 청년몰 방문객 특성을 반영한 맞춤형 운영 전략을 제시하여 데이터 기반 입지 선정 및 운영 방안 수립의 가능성을 확인
 
-[프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/OD%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
+[자세한 프로젝트 설명 및 자료](https://github.com/yeonsoo1020/portfolio/tree/main/OD%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
 
 #### 6. 관광 데이터 분석_외래관광객 유치를 위한 지역관광 활성화 방안
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EA%B4%80%EA%B4%91%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
