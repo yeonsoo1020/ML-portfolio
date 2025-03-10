@@ -10,6 +10,8 @@
 [발표ppt](https://github.com/yeonsoo1020/portfolio/blob/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EC%9E%90%EC%9B%90%EB%B6%80%20%EB%B0%9C%ED%91%9C%20ppt.pdf),
 [코드](https://github.com/yeonsoo1020/portfolio/blob/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%82%B0%EC%97%85%EB%B6%80%20%EC%A0%9C%EC%B6%9C%EC%9A%A9%20%EC%BD%94%EB%93%9C.ipynb)
 
+## 📝 역할
+기상 관련 데이터 수집, EDA, 클러스터링, 모델 튜닝
 
 ## 📂 활용 데이터
 공모전에서 제공되는 제주지역의 주택용 전력 사용 데이터 및 공공 데이터 포털, 외부 데이터 활용
