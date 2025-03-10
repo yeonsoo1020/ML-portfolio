@@ -57,7 +57,7 @@
 - 지역별 관광 특성을 반영한 테마별 관광지 추천 서비스 개발 및 비인기 지역 관광 활성화를 위한 맞춤형 관광 코스 설계
 - 지역 불균형 해소를 위한 지역상생형 관광개발 모델 도입, K-Culture와 연계한 관광 콘텐츠 확장 등 다양한 정책 제안
 
-[프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EA%B4%80%EA%B4%91%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
+[자세한 프로젝트 설명 및 자료](https://github.com/yeonsoo1020/portfolio/tree/main/%EA%B4%80%EA%B4%91%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
 
 #### 7. 리뷰 데이터 분석_립 제품 구매에 영향을 미치는 요인분석
 
