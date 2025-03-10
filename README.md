@@ -29,11 +29,16 @@
 - 성능 개선을 위해 하이퍼파라미터 튜닝 & Soft Voting 앙상블 기법을 적용하여 안정적인 예측 성능 확보
 - LG AImers 5기 해커톤에서 예선 740팀 중 4위, 본선진출 27팀 중 9위를 기록하며 우수한 성과 달성
 
-[구체적인 프로젝트 설명, 자료](https://github.com/yeonsoo1020/portfolio/tree/main/LG%20AImers%205%EA%B8%B0)
+[자세한 프로젝트 설명, 자료](https://github.com/yeonsoo1020/portfolio/tree/main/LG%20AImers%205%EA%B8%B0)
 
 #### 3. 산업통상자원부 공모전_고객 전력 사용량 예측 알고리즘 개발
+- 목표: 제주 지역의 고객별 전력 사용량을 예측하는 머신러닝 모델 개발
+- 기온, 풍속, 습도 등 기상 데이터와 사회적 거리두기 단계, 경제적 요인 등 다양한 요소를 반영하여 고객별 전력 사용 패턴 분석 및 예측 모델 구축
+- 결측치 및 이상치 제거, K-means 클러스터링을 활용하여 소비 패턴 분석 및 예측 변수로 활용하여 모델 성능 향상
+- LightGBM, XGBoost, CatBoost를 활용하여 성능 비교 후, CatBoost를 최종 모델로 선정
+- 제11회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터 분석 부문 최우수상(한국전력공사 사장상) 수상
 
-[프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
+[자세한 프로젝트 설명, 자료](https://github.com/yeonsoo1020/portfolio/tree/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
 
 #### 4. RAG 기반 챗봇
 
