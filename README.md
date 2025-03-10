@@ -31,7 +31,7 @@
 
 [구체적인 프로젝트 설명, 자료](https://github.com/yeonsoo1020/portfolio/tree/main/LG%20AImers%205%EA%B8%B0)
 
-#### 3. 고객 전력 사용량 예측 알고리즘 개발
+#### 3. 산업통상자원부 공모전_고객 전력 사용량 예측 알고리즘 개발
 
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EC%82%B0%EC%97%85%EB%B6%80%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
 
@@ -48,7 +48,7 @@
 
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%A6%AC%EB%B7%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
 
-#### 8. 블랙보드 학습관리시스템(LMS) 데이터 분석 및 개선 연구
+#### 8. 블랙보드 공모전_블랙보드 학습관리시스템(LMS) 데이터 분석 및 개선 연구
 
 [프로젝트 설명](https://github.com/yeonsoo1020/portfolio/tree/main/%EB%B8%94%EB%9E%99%EB%B3%B4%EB%93%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84)
 
