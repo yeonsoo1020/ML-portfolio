@@ -8,6 +8,9 @@
 - 🏆대상 수상
 - [최종보고서](https://github.com/yeonsoo1020/portfolio/blob/main/%EB%B8%94%EB%9E%99%EB%B3%B4%EB%93%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EB%B8%94%EB%B3%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
+## 📝 역할
+학부/대학원 만족도 차이 분석 및 시각화
+
 ## 🏷️ 주제 선정 배경
   - 코로나19 이후 온라인 학습 비중 증가로 LMS의 역할이 중요해짐에 따라 LMS 만족도를 분석하여 개선 방향 도출이 필요
   - 블랙보드 이용 실태를 분석하고 맞춤형 개선안 제시 
