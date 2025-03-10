@@ -52,4 +52,4 @@
 한국어 텍스트 분류를 위한 임베딩 모델 및 Advanced RAG 기법 비교 연구
 
 ## 🛠 Skills
-python, R, BigQuery, MySQL, tableau
+Python, R, BigQuery, MySQL, Tableau, SAS
